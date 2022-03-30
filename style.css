@@ -26,7 +26,7 @@
   
   /* Set all odd list items to a different color (zebra-stripes) */
   ul li:nth-child(odd) {
-    background: darkgrey;
+    background: green;
   }
   
   /* Darker background-color on hover */
@@ -36,7 +36,7 @@
   
   /* When clicked on, add a background color and strike out text */
   ul li.checked {
-    background: purple;
+    background: blue;
     color: white;
     text-decoration: line-through;
   }
@@ -64,7 +64,7 @@
   }
   
   .close:hover {
-    background-color: #f44336;
+    background-color: #5F9EA0;
     color: white;
   }
   
